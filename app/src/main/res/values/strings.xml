@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CandidCamera</string>
+    <string name="start_button_text">Take Photo</string>
+    <string name="waiting_text">Processing candid photo...</string>
+</resources>
